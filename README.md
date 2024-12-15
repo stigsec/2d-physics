@@ -17,7 +17,7 @@ To run this project, you need Python installed on your system along with the Pyg
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/stigsec/2d-physics
+   git clone https://github.com/stigsec/2d-physics.git
    cd 2d-physics
    ```
 
